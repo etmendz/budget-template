@@ -8,3 +8,7 @@ My Budget Template is a simple tool that lets you track, plan and forecast your 
 5. Automatic running balance calculations.
 6. Summary tab provided to show the budget forecast for the year.
 7. Built-in guide and tips.
+
+---
+
+(c) Mendz, etmendz All rights reserved.
